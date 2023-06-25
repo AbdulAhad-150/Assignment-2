@@ -1,0 +1,18 @@
+body {background-color: rgb(0, 0, 0); }
+
+body{ color:whitesmoke}
+
+h1+p{ color: 	#40e0d0;}
+
+* { margin: 4px;}
+
+.class1 {position: absolute;
+    bottom: 525px;
+    left: 700px; }
+
+.class2{position: absolute;
+    bottom: 400px;
+    left: 700px;}
+
+h3 {font-weight: 700; 
+font-family:'Courier New', Courier, monospace;}
